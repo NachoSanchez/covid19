@@ -1,0 +1,1992 @@
+[
+  {
+    "spanish": "Afganistán",
+    "english": "Afghanistan",
+    "code": "AF",
+    "latitude": 33,
+    "longitude": 65,
+    "flag": "https://restcountries.eu/data/afg.svg"
+  },
+  {
+    "spanish": "Alandia",
+    "english": "Åland Islands",
+    "code": "AX",
+    "latitude": 60.116667,
+    "longitude": 19.9,
+    "flag": "https://restcountries.eu/data/ala.svg"
+  },
+  {
+    "spanish": "Albania",
+    "english": "Albania",
+    "code": "AL",
+    "latitude": 41,
+    "longitude": 20,
+    "flag": "https://restcountries.eu/data/alb.svg"
+  },
+  {
+    "spanish": "Argelia",
+    "english": "Algeria",
+    "code": "DZ",
+    "latitude": 28,
+    "longitude": 3,
+    "flag": "https://restcountries.eu/data/dza.svg"
+  },
+  {
+    "spanish": "Samoa Americana",
+    "english": "American Samoa",
+    "code": "AS",
+    "latitude": -14.33333333,
+    "longitude": -170,
+    "flag": "https://restcountries.eu/data/asm.svg"
+  },
+  {
+    "spanish": "Andorra",
+    "english": "Andorra",
+    "code": "AD",
+    "latitude": 42.5,
+    "longitude": 1.5,
+    "flag": "https://restcountries.eu/data/and.svg"
+  },
+  {
+    "spanish": "Angola",
+    "english": "Angola",
+    "code": "AO",
+    "latitude": -12.5,
+    "longitude": 18.5,
+    "flag": "https://restcountries.eu/data/ago.svg"
+  },
+  {
+    "spanish": "Anguilla",
+    "english": "Anguilla",
+    "code": "AI",
+    "latitude": 18.25,
+    "longitude": -63.16666666,
+    "flag": "https://restcountries.eu/data/aia.svg"
+  },
+  {
+    "spanish": "Antártida",
+    "english": "Antarctica",
+    "code": "AQ",
+    "latitude": -74.65,
+    "longitude": 4.48,
+    "flag": "https://restcountries.eu/data/ata.svg"
+  },
+  {
+    "spanish": "Antigua y Barbuda",
+    "english": "Antigua and Barbuda",
+    "code": "AG",
+    "latitude": 17.05,
+    "longitude": -61.8,
+    "flag": "https://restcountries.eu/data/atg.svg"
+  },
+  {
+    "spanish": "Argentina",
+    "english": "Argentina",
+    "code": "AR",
+    "latitude": -34,
+    "longitude": -64,
+    "flag": "https://restcountries.eu/data/arg.svg"
+  },
+  {
+    "spanish": "Armenia",
+    "english": "Armenia",
+    "code": "AM",
+    "latitude": 40,
+    "longitude": 45,
+    "flag": "https://restcountries.eu/data/arm.svg"
+  },
+  {
+    "spanish": "Aruba",
+    "english": "Aruba",
+    "code": "AW",
+    "latitude": 12.5,
+    "longitude": -69.96666666,
+    "flag": "https://restcountries.eu/data/abw.svg"
+  },
+  {
+    "spanish": "Australia",
+    "english": "Australia",
+    "code": "AU",
+    "latitude": -27,
+    "longitude": 133,
+    "flag": "https://restcountries.eu/data/aus.svg"
+  },
+  {
+    "spanish": "Austria",
+    "english": "Austria",
+    "code": "AT",
+    "latitude": 47.33333333,
+    "longitude": 13.33333333,
+    "flag": "https://restcountries.eu/data/aut.svg"
+  },
+  {
+    "spanish": "Azerbaiyán",
+    "english": "Azerbaijan",
+    "code": "AZ",
+    "latitude": 40.5,
+    "longitude": 47.5,
+    "flag": "https://restcountries.eu/data/aze.svg"
+  },
+  {
+    "spanish": "Bahamas",
+    "english": "Bahamas",
+    "code": "BS",
+    "latitude": 24.25,
+    "longitude": -76,
+    "flag": "https://restcountries.eu/data/bhs.svg"
+  },
+  {
+    "spanish": "Bahrein",
+    "english": "Bahrain",
+    "code": "BH",
+    "latitude": 26,
+    "longitude": 50.55,
+    "flag": "https://restcountries.eu/data/bhr.svg"
+  },
+  {
+    "spanish": "Bangladesh",
+    "english": "Bangladesh",
+    "code": "BD",
+    "latitude": 24,
+    "longitude": 90,
+    "flag": "https://restcountries.eu/data/bgd.svg"
+  },
+  {
+    "spanish": "Barbados",
+    "english": "Barbados",
+    "code": "BB",
+    "latitude": 13.16666666,
+    "longitude": -59.53333333,
+    "flag": "https://restcountries.eu/data/brb.svg"
+  },
+  {
+    "spanish": "Bielorrusia",
+    "english": "Belarus",
+    "code": "BY",
+    "latitude": 53,
+    "longitude": 28,
+    "flag": "https://restcountries.eu/data/blr.svg"
+  },
+  {
+    "spanish": "Bélgica",
+    "english": "Belgium",
+    "code": "BE",
+    "latitude": 50.83333333,
+    "longitude": 4,
+    "flag": "https://restcountries.eu/data/bel.svg"
+  },
+  {
+    "spanish": "Belice",
+    "english": "Belize",
+    "code": "BZ",
+    "latitude": 17.25,
+    "longitude": -88.75,
+    "flag": "https://restcountries.eu/data/blz.svg"
+  },
+  {
+    "spanish": "Benín",
+    "english": "Benin",
+    "code": "BJ",
+    "latitude": 9.5,
+    "longitude": 2.25,
+    "flag": "https://restcountries.eu/data/ben.svg"
+  },
+  {
+    "spanish": "Bermudas",
+    "english": "Bermuda",
+    "code": "BM",
+    "latitude": 32.33333333,
+    "longitude": -64.75,
+    "flag": "https://restcountries.eu/data/bmu.svg"
+  },
+  {
+    "spanish": "Bután",
+    "english": "Bhutan",
+    "code": "BT",
+    "latitude": 27.5,
+    "longitude": 90.5,
+    "flag": "https://restcountries.eu/data/btn.svg"
+  },
+  {
+    "spanish": "Bolivia",
+    "english": "Bolivia (Plurinational State of)",
+    "code": "BO",
+    "latitude": -17,
+    "longitude": -65,
+    "flag": "https://restcountries.eu/data/bol.svg"
+  },
+  {
+    "spanish": "Bonaire, Sint Eustatius and Saba",
+    "english": "Bonaire, Sint Eustatius and Saba",
+    "code": "BQ",
+    "latitude": 12.15,
+    "longitude": -68.266667,
+    "flag": "https://restcountries.eu/data/bes.svg"
+  },
+  {
+    "spanish": "Bosnia y Herzegovina",
+    "english": "Bosnia and Herzegovina",
+    "code": "BA",
+    "latitude": 44,
+    "longitude": 18,
+    "flag": "https://restcountries.eu/data/bih.svg"
+  },
+  {
+    "spanish": "Botswana",
+    "english": "Botswana",
+    "code": "BW",
+    "latitude": -22,
+    "longitude": 24,
+    "flag": "https://restcountries.eu/data/bwa.svg"
+  },
+  {
+    "spanish": "Isla Bouvet",
+    "english": "Bouvet Island",
+    "code": "BV",
+    "latitude": -54.43333333,
+    "longitude": 3.4,
+    "flag": "https://restcountries.eu/data/bvt.svg"
+  },
+  {
+    "spanish": "Brasil",
+    "english": "Brazil",
+    "code": "BR",
+    "latitude": -10,
+    "longitude": -55,
+    "flag": "https://restcountries.eu/data/bra.svg"
+  },
+  {
+    "spanish": "Territorio Británico del Océano Índico",
+    "english": "British Indian Ocean Territory",
+    "code": "IO",
+    "latitude": -6,
+    "longitude": 71.5,
+    "flag": "https://restcountries.eu/data/iot.svg"
+  },
+  {
+    "spanish": "Islas Ultramarinas Menores de Estados Unidos",
+    "english": "United States Minor Outlying Islands",
+    "code": "UM",
+    "flag": "https://restcountries.eu/data/umi.svg"
+  },
+  {
+    "spanish": "Islas Vírgenes del Reino Unido",
+    "english": "Virgin Islands (British)",
+    "code": "VG",
+    "latitude": 18.431383,
+    "longitude": -64.62305,
+    "flag": "https://restcountries.eu/data/vgb.svg"
+  },
+  {
+    "spanish": "Islas Vírgenes de los Estados Unidos",
+    "english": "Virgin Islands (U.S.)",
+    "code": "VI",
+    "latitude": 18.34,
+    "longitude": -64.93,
+    "flag": "https://restcountries.eu/data/vir.svg"
+  },
+  {
+    "spanish": "Brunei",
+    "english": "Brunei Darussalam",
+    "code": "BN",
+    "latitude": 4.5,
+    "longitude": 114.66666666,
+    "flag": "https://restcountries.eu/data/brn.svg"
+  },
+  {
+    "spanish": "Bulgaria",
+    "english": "Bulgaria",
+    "code": "BG",
+    "latitude": 43,
+    "longitude": 25,
+    "flag": "https://restcountries.eu/data/bgr.svg"
+  },
+  {
+    "spanish": "Burkina Faso",
+    "english": "Burkina Faso",
+    "code": "BF",
+    "latitude": 13,
+    "longitude": -2,
+    "flag": "https://restcountries.eu/data/bfa.svg"
+  },
+  {
+    "spanish": "Burundi",
+    "english": "Burundi",
+    "code": "BI",
+    "latitude": -3.5,
+    "longitude": 30,
+    "flag": "https://restcountries.eu/data/bdi.svg"
+  },
+  {
+    "spanish": "Camboya",
+    "english": "Cambodia",
+    "code": "KH",
+    "latitude": 13,
+    "longitude": 105,
+    "flag": "https://restcountries.eu/data/khm.svg"
+  },
+  {
+    "spanish": "Camerún",
+    "english": "Cameroon",
+    "code": "CM",
+    "latitude": 6,
+    "longitude": 12,
+    "flag": "https://restcountries.eu/data/cmr.svg"
+  },
+  {
+    "spanish": "Canadá",
+    "english": "Canada",
+    "code": "CA",
+    "latitude": 60,
+    "longitude": -95,
+    "flag": "https://restcountries.eu/data/can.svg"
+  },
+  {
+    "spanish": "Cabo Verde",
+    "english": "Cabo Verde",
+    "code": "CV",
+    "latitude": 16,
+    "longitude": -24,
+    "flag": "https://restcountries.eu/data/cpv.svg"
+  },
+  {
+    "spanish": "Islas Caimán",
+    "english": "Cayman Islands",
+    "code": "KY",
+    "latitude": 19.5,
+    "longitude": -80.5,
+    "flag": "https://restcountries.eu/data/cym.svg"
+  },
+  {
+    "spanish": "República Centroafricana",
+    "english": "Central African Republic",
+    "code": "CF",
+    "latitude": 7,
+    "longitude": 21,
+    "flag": "https://restcountries.eu/data/caf.svg"
+  },
+  {
+    "spanish": "Chad",
+    "english": "Chad",
+    "code": "TD",
+    "latitude": 15,
+    "longitude": 19,
+    "flag": "https://restcountries.eu/data/tcd.svg"
+  },
+  {
+    "spanish": "Chile",
+    "english": "Chile",
+    "code": "CL",
+    "latitude": -30,
+    "longitude": -71,
+    "flag": "https://restcountries.eu/data/chl.svg"
+  },
+  {
+    "spanish": "China",
+    "english": "China",
+    "code": "CN",
+    "latitude": 35,
+    "longitude": 105,
+    "flag": "https://restcountries.eu/data/chn.svg"
+  },
+  {
+    "spanish": "Isla de Navidad",
+    "english": "Christmas Island",
+    "code": "CX",
+    "latitude": -10.5,
+    "longitude": 105.66666666,
+    "flag": "https://restcountries.eu/data/cxr.svg"
+  },
+  {
+    "spanish": "Islas Cocos o Islas Keeling",
+    "english": "Cocos (Keeling) Islands",
+    "code": "CC",
+    "latitude": -12.5,
+    "longitude": 96.83333333,
+    "flag": "https://restcountries.eu/data/cck.svg"
+  },
+  {
+    "spanish": "Colombia",
+    "english": "Colombia",
+    "code": "CO",
+    "latitude": 4,
+    "longitude": -72,
+    "flag": "https://restcountries.eu/data/col.svg"
+  },
+  {
+    "spanish": "Comoras",
+    "english": "Comoros",
+    "code": "KM",
+    "latitude": -12.16666666,
+    "longitude": 44.25,
+    "flag": "https://restcountries.eu/data/com.svg"
+  },
+  {
+    "spanish": "Congo",
+    "english": "Congo",
+    "code": "CG",
+    "latitude": -1,
+    "longitude": 15,
+    "flag": "https://restcountries.eu/data/cog.svg"
+  },
+  {
+    "spanish": "Congo (Rep. Dem.)",
+    "english": "Congo (Democratic Republic of the)",
+    "code": "CD",
+    "latitude": 0,
+    "longitude": 25,
+    "flag": "https://restcountries.eu/data/cod.svg"
+  },
+  {
+    "spanish": "Islas Cook",
+    "english": "Cook Islands",
+    "code": "CK",
+    "latitude": -21.23333333,
+    "longitude": -159.76666666,
+    "flag": "https://restcountries.eu/data/cok.svg"
+  },
+  {
+    "spanish": "Costa Rica",
+    "english": "Costa Rica",
+    "code": "CR",
+    "latitude": 10,
+    "longitude": -84,
+    "flag": "https://restcountries.eu/data/cri.svg"
+  },
+  {
+    "spanish": "Croacia",
+    "english": "Croatia",
+    "code": "HR",
+    "latitude": 45.16666666,
+    "longitude": 15.5,
+    "flag": "https://restcountries.eu/data/hrv.svg"
+  },
+  {
+    "spanish": "Cuba",
+    "english": "Cuba",
+    "code": "CU",
+    "latitude": 21.5,
+    "longitude": -80,
+    "flag": "https://restcountries.eu/data/cub.svg"
+  },
+  {
+    "spanish": "Curaçao",
+    "english": "Curaçao",
+    "code": "CW",
+    "latitude": 12.116667,
+    "longitude": -68.933333,
+    "flag": "https://restcountries.eu/data/cuw.svg"
+  },
+  {
+    "spanish": "Chipre",
+    "english": "Cyprus",
+    "code": "CY",
+    "latitude": 35,
+    "longitude": 33,
+    "flag": "https://restcountries.eu/data/cyp.svg"
+  },
+  {
+    "spanish": "República Checa",
+    "english": "Czech Republic",
+    "code": "CZ",
+    "latitude": 49.75,
+    "longitude": 15.5,
+    "flag": "https://restcountries.eu/data/cze.svg"
+  },
+  {
+    "spanish": "Dinamarca",
+    "english": "Denmark",
+    "code": "DK",
+    "latitude": 56,
+    "longitude": 10,
+    "flag": "https://restcountries.eu/data/dnk.svg"
+  },
+  {
+    "spanish": "Yibuti",
+    "english": "Djibouti",
+    "code": "DJ",
+    "latitude": 11.5,
+    "longitude": 43,
+    "flag": "https://restcountries.eu/data/dji.svg"
+  },
+  {
+    "spanish": "Dominica",
+    "english": "Dominica",
+    "code": "DM",
+    "latitude": 15.41666666,
+    "longitude": -61.33333333,
+    "flag": "https://restcountries.eu/data/dma.svg"
+  },
+  {
+    "spanish": "República Dominicana",
+    "english": "Dominican Republic",
+    "code": "DO",
+    "latitude": 19,
+    "longitude": -70.66666666,
+    "flag": "https://restcountries.eu/data/dom.svg"
+  },
+  {
+    "spanish": "Ecuador",
+    "english": "Ecuador",
+    "code": "EC",
+    "latitude": -2,
+    "longitude": -77.5,
+    "flag": "https://restcountries.eu/data/ecu.svg"
+  },
+  {
+    "spanish": "Egipto",
+    "english": "Egypt",
+    "code": "EG",
+    "latitude": 27,
+    "longitude": 30,
+    "flag": "https://restcountries.eu/data/egy.svg"
+  },
+  {
+    "spanish": "El Salvador",
+    "english": "El Salvador",
+    "code": "SV",
+    "latitude": 13.83333333,
+    "longitude": -88.91666666,
+    "flag": "https://restcountries.eu/data/slv.svg"
+  },
+  {
+    "spanish": "Guinea Ecuatorial",
+    "english": "Equatorial Guinea",
+    "code": "GQ",
+    "latitude": 2,
+    "longitude": 10,
+    "flag": "https://restcountries.eu/data/gnq.svg"
+  },
+  {
+    "spanish": "Eritrea",
+    "english": "Eritrea",
+    "code": "ER",
+    "latitude": 15,
+    "longitude": 39,
+    "flag": "https://restcountries.eu/data/eri.svg"
+  },
+  {
+    "spanish": "Estonia",
+    "english": "Estonia",
+    "code": "EE",
+    "latitude": 59,
+    "longitude": 26,
+    "flag": "https://restcountries.eu/data/est.svg"
+  },
+  {
+    "spanish": "Etiopía",
+    "english": "Ethiopia",
+    "code": "ET",
+    "latitude": 8,
+    "longitude": 38,
+    "flag": "https://restcountries.eu/data/eth.svg"
+  },
+  {
+    "spanish": "Islas Malvinas",
+    "english": "Falkland Islands (Malvinas)",
+    "code": "FK",
+    "latitude": -51.75,
+    "longitude": -59,
+    "flag": "https://restcountries.eu/data/flk.svg"
+  },
+  {
+    "spanish": "Islas Faroe",
+    "english": "Faroe Islands",
+    "code": "FO",
+    "latitude": 62,
+    "longitude": -7,
+    "flag": "https://restcountries.eu/data/fro.svg"
+  },
+  {
+    "spanish": "Fiyi",
+    "english": "Fiji",
+    "code": "FJ",
+    "latitude": -18,
+    "longitude": 175,
+    "flag": "https://restcountries.eu/data/fji.svg"
+  },
+  {
+    "spanish": "Finlandia",
+    "english": "Finland",
+    "code": "FI",
+    "latitude": 64,
+    "longitude": 26,
+    "flag": "https://restcountries.eu/data/fin.svg"
+  },
+  {
+    "spanish": "Francia",
+    "english": "France",
+    "code": "FR",
+    "latitude": 46,
+    "longitude": 2,
+    "flag": "https://restcountries.eu/data/fra.svg"
+  },
+  {
+    "spanish": "Guayana Francesa",
+    "english": "French Guiana",
+    "code": "GF",
+    "latitude": 4,
+    "longitude": -53,
+    "flag": "https://restcountries.eu/data/guf.svg"
+  },
+  {
+    "spanish": "Polinesia Francesa",
+    "english": "French Polynesia",
+    "code": "PF",
+    "latitude": -15,
+    "longitude": -140,
+    "flag": "https://restcountries.eu/data/pyf.svg"
+  },
+  {
+    "spanish": "Tierras Australes y Antárticas Francesas",
+    "english": "French Southern Territories",
+    "code": "TF",
+    "latitude": -49.25,
+    "longitude": 69.167,
+    "flag": "https://restcountries.eu/data/atf.svg"
+  },
+  {
+    "spanish": "Gabón",
+    "english": "Gabon",
+    "code": "GA",
+    "latitude": -1,
+    "longitude": 11.75,
+    "flag": "https://restcountries.eu/data/gab.svg"
+  },
+  {
+    "spanish": "Gambia",
+    "english": "Gambia",
+    "code": "GM",
+    "latitude": 13.46666666,
+    "longitude": -16.56666666,
+    "flag": "https://restcountries.eu/data/gmb.svg"
+  },
+  {
+    "spanish": "Georgia",
+    "english": "Georgia",
+    "code": "GE",
+    "latitude": 42,
+    "longitude": 43.5,
+    "flag": "https://restcountries.eu/data/geo.svg"
+  },
+  {
+    "spanish": "Alemania",
+    "english": "Germany",
+    "code": "DE",
+    "latitude": 51,
+    "longitude": 9,
+    "flag": "https://restcountries.eu/data/deu.svg"
+  },
+  {
+    "spanish": "Ghana",
+    "english": "Ghana",
+    "code": "GH",
+    "latitude": 8,
+    "longitude": -2,
+    "flag": "https://restcountries.eu/data/gha.svg"
+  },
+  {
+    "spanish": "Gibraltar",
+    "english": "Gibraltar",
+    "code": "GI",
+    "latitude": 36.13333333,
+    "longitude": -5.35,
+    "flag": "https://restcountries.eu/data/gib.svg"
+  },
+  {
+    "spanish": "Grecia",
+    "english": "Greece",
+    "code": "GR",
+    "latitude": 39,
+    "longitude": 22,
+    "flag": "https://restcountries.eu/data/grc.svg"
+  },
+  {
+    "spanish": "Groenlandia",
+    "english": "Greenland",
+    "code": "GL",
+    "latitude": 72,
+    "longitude": -40,
+    "flag": "https://restcountries.eu/data/grl.svg"
+  },
+  {
+    "spanish": "Grenada",
+    "english": "Grenada",
+    "code": "GD",
+    "latitude": 12.11666666,
+    "longitude": -61.66666666,
+    "flag": "https://restcountries.eu/data/grd.svg"
+  },
+  {
+    "spanish": "Guadalupe",
+    "english": "Guadeloupe",
+    "code": "GP",
+    "latitude": 16.25,
+    "longitude": -61.583333,
+    "flag": "https://restcountries.eu/data/glp.svg"
+  },
+  {
+    "spanish": "Guam",
+    "english": "Guam",
+    "code": "GU",
+    "latitude": 13.46666666,
+    "longitude": 144.78333333,
+    "flag": "https://restcountries.eu/data/gum.svg"
+  },
+  {
+    "spanish": "Guatemala",
+    "english": "Guatemala",
+    "code": "GT",
+    "latitude": 15.5,
+    "longitude": -90.25,
+    "flag": "https://restcountries.eu/data/gtm.svg"
+  },
+  {
+    "spanish": "Guernsey",
+    "english": "Guernsey",
+    "code": "GG",
+    "latitude": 49.46666666,
+    "longitude": -2.58333333,
+    "flag": "https://restcountries.eu/data/ggy.svg"
+  },
+  {
+    "spanish": "Guinea",
+    "english": "Guinea",
+    "code": "GN",
+    "latitude": 11,
+    "longitude": -10,
+    "flag": "https://restcountries.eu/data/gin.svg"
+  },
+  {
+    "spanish": "Guinea-Bisáu",
+    "english": "Guinea-Bissau",
+    "code": "GW",
+    "latitude": 12,
+    "longitude": -15,
+    "flag": "https://restcountries.eu/data/gnb.svg"
+  },
+  {
+    "spanish": "Guyana",
+    "english": "Guyana",
+    "code": "GY",
+    "latitude": 5,
+    "longitude": -59,
+    "flag": "https://restcountries.eu/data/guy.svg"
+  },
+  {
+    "spanish": "Haiti",
+    "english": "Haiti",
+    "code": "HT",
+    "latitude": 19,
+    "longitude": -72.41666666,
+    "flag": "https://restcountries.eu/data/hti.svg"
+  },
+  {
+    "spanish": "Islas Heard y McDonald",
+    "english": "Heard Island and McDonald Islands",
+    "code": "HM",
+    "latitude": -53.1,
+    "longitude": 72.51666666,
+    "flag": "https://restcountries.eu/data/hmd.svg"
+  },
+  {
+    "spanish": "Santa Sede",
+    "english": "Holy See",
+    "code": "VA",
+    "latitude": 41.9,
+    "longitude": 12.45,
+    "flag": "https://restcountries.eu/data/vat.svg"
+  },
+  {
+    "spanish": "Honduras",
+    "english": "Honduras",
+    "code": "HN",
+    "latitude": 15,
+    "longitude": -86.5,
+    "flag": "https://restcountries.eu/data/hnd.svg"
+  },
+  {
+    "spanish": "Hong Kong",
+    "english": "Hong Kong",
+    "code": "HK",
+    "latitude": 22.25,
+    "longitude": 114.16666666,
+    "flag": "https://restcountries.eu/data/hkg.svg"
+  },
+  {
+    "spanish": "Hungría",
+    "english": "Hungary",
+    "code": "HU",
+    "latitude": 47,
+    "longitude": 20,
+    "flag": "https://restcountries.eu/data/hun.svg"
+  },
+  {
+    "spanish": "Islandia",
+    "english": "Iceland",
+    "code": "IS",
+    "latitude": 65,
+    "longitude": -18,
+    "flag": "https://restcountries.eu/data/isl.svg"
+  },
+  {
+    "spanish": "India",
+    "english": "India",
+    "code": "IN",
+    "latitude": 20,
+    "longitude": 77,
+    "flag": "https://restcountries.eu/data/ind.svg"
+  },
+  {
+    "spanish": "Indonesia",
+    "english": "Indonesia",
+    "code": "ID",
+    "latitude": -5,
+    "longitude": 120,
+    "flag": "https://restcountries.eu/data/idn.svg"
+  },
+  {
+    "spanish": "Costa de Marfil",
+    "english": "Côte d'Ivoire",
+    "code": "CI",
+    "latitude": 8,
+    "longitude": -5,
+    "flag": "https://restcountries.eu/data/civ.svg"
+  },
+  {
+    "spanish": "Iran",
+    "english": "Iran (Islamic Republic of)",
+    "code": "IR",
+    "latitude": 32,
+    "longitude": 53,
+    "flag": "https://restcountries.eu/data/irn.svg"
+  },
+  {
+    "spanish": "Irak",
+    "english": "Iraq",
+    "code": "IQ",
+    "latitude": 33,
+    "longitude": 44,
+    "flag": "https://restcountries.eu/data/irq.svg"
+  },
+  {
+    "spanish": "Irlanda",
+    "english": "Ireland",
+    "code": "IE",
+    "latitude": 53,
+    "longitude": -8,
+    "flag": "https://restcountries.eu/data/irl.svg"
+  },
+  {
+    "spanish": "Isla de Man",
+    "english": "Isle of Man",
+    "code": "IM",
+    "latitude": 54.25,
+    "longitude": -4.5,
+    "flag": "https://restcountries.eu/data/imn.svg"
+  },
+  {
+    "spanish": "Israel",
+    "english": "Israel",
+    "code": "IL",
+    "latitude": 31.5,
+    "longitude": 34.75,
+    "flag": "https://restcountries.eu/data/isr.svg"
+  },
+  {
+    "spanish": "Italia",
+    "english": "Italy",
+    "code": "IT",
+    "latitude": 42.83333333,
+    "longitude": 12.83333333,
+    "flag": "https://restcountries.eu/data/ita.svg"
+  },
+  {
+    "spanish": "Jamaica",
+    "english": "Jamaica",
+    "code": "JM",
+    "latitude": 18.25,
+    "longitude": -77.5,
+    "flag": "https://restcountries.eu/data/jam.svg"
+  },
+  {
+    "spanish": "Japón",
+    "english": "Japan",
+    "code": "JP",
+    "latitude": 36,
+    "longitude": 138,
+    "flag": "https://restcountries.eu/data/jpn.svg"
+  },
+  {
+    "spanish": "Jersey",
+    "english": "Jersey",
+    "code": "JE",
+    "latitude": 49.25,
+    "longitude": -2.16666666,
+    "flag": "https://restcountries.eu/data/jey.svg"
+  },
+  {
+    "spanish": "Jordania",
+    "english": "Jordan",
+    "code": "JO",
+    "latitude": 31,
+    "longitude": 36,
+    "flag": "https://restcountries.eu/data/jor.svg"
+  },
+  {
+    "spanish": "Kazajistán",
+    "english": "Kazakhstan",
+    "code": "KZ",
+    "latitude": 48,
+    "longitude": 68,
+    "flag": "https://restcountries.eu/data/kaz.svg"
+  },
+  {
+    "spanish": "Kenia",
+    "english": "Kenya",
+    "code": "KE",
+    "latitude": 1,
+    "longitude": 38,
+    "flag": "https://restcountries.eu/data/ken.svg"
+  },
+  {
+    "spanish": "Kiribati",
+    "english": "Kiribati",
+    "code": "KI",
+    "latitude": 1.41666666,
+    "longitude": 173,
+    "flag": "https://restcountries.eu/data/kir.svg"
+  },
+  {
+    "spanish": "Kuwait",
+    "english": "Kuwait",
+    "code": "KW",
+    "latitude": 29.5,
+    "longitude": 45.75,
+    "flag": "https://restcountries.eu/data/kwt.svg"
+  },
+  {
+    "spanish": "Kirguizistán",
+    "english": "Kyrgyzstan",
+    "code": "KG",
+    "latitude": 41,
+    "longitude": 75,
+    "flag": "https://restcountries.eu/data/kgz.svg"
+  },
+  {
+    "spanish": "Laos",
+    "english": "Lao People's Democratic Republic",
+    "code": "LA",
+    "latitude": 18,
+    "longitude": 105,
+    "flag": "https://restcountries.eu/data/lao.svg"
+  },
+  {
+    "spanish": "Letonia",
+    "english": "Latvia",
+    "code": "LV",
+    "latitude": 57,
+    "longitude": 25,
+    "flag": "https://restcountries.eu/data/lva.svg"
+  },
+  {
+    "spanish": "Líbano",
+    "english": "Lebanon",
+    "code": "LB",
+    "latitude": 33.83333333,
+    "longitude": 35.83333333,
+    "flag": "https://restcountries.eu/data/lbn.svg"
+  },
+  {
+    "spanish": "Lesotho",
+    "english": "Lesotho",
+    "code": "LS",
+    "latitude": -29.5,
+    "longitude": 28.5,
+    "flag": "https://restcountries.eu/data/lso.svg"
+  },
+  {
+    "spanish": "Liberia",
+    "english": "Liberia",
+    "code": "LR",
+    "latitude": 6.5,
+    "longitude": -9.5,
+    "flag": "https://restcountries.eu/data/lbr.svg"
+  },
+  {
+    "spanish": "Libia",
+    "english": "Libya",
+    "code": "LY",
+    "latitude": 25,
+    "longitude": 17,
+    "flag": "https://restcountries.eu/data/lby.svg"
+  },
+  {
+    "spanish": "Liechtenstein",
+    "english": "Liechtenstein",
+    "code": "LI",
+    "latitude": 47.26666666,
+    "longitude": 9.53333333,
+    "flag": "https://restcountries.eu/data/lie.svg"
+  },
+  {
+    "spanish": "Lituania",
+    "english": "Lithuania",
+    "code": "LT",
+    "latitude": 56,
+    "longitude": 24,
+    "flag": "https://restcountries.eu/data/ltu.svg"
+  },
+  {
+    "spanish": "Luxemburgo",
+    "english": "Luxembourg",
+    "code": "LU",
+    "latitude": 49.75,
+    "longitude": 6.16666666,
+    "flag": "https://restcountries.eu/data/lux.svg"
+  },
+  {
+    "spanish": "Macao",
+    "english": "Macao",
+    "code": "MO",
+    "latitude": 22.16666666,
+    "longitude": 113.55,
+    "flag": "https://restcountries.eu/data/mac.svg"
+  },
+  {
+    "spanish": "Macedonia",
+    "english": "Macedonia (the former Yugoslav Republic of)",
+    "code": "MK",
+    "latitude": 41.83333333,
+    "longitude": 22,
+    "flag": "https://restcountries.eu/data/mkd.svg"
+  },
+  {
+    "spanish": "Madagascar",
+    "english": "Madagascar",
+    "code": "MG",
+    "latitude": -20,
+    "longitude": 47,
+    "flag": "https://restcountries.eu/data/mdg.svg"
+  },
+  {
+    "spanish": "Malawi",
+    "english": "Malawi",
+    "code": "MW",
+    "latitude": -13.5,
+    "longitude": 34,
+    "flag": "https://restcountries.eu/data/mwi.svg"
+  },
+  {
+    "spanish": "Malasia",
+    "english": "Malaysia",
+    "code": "MY",
+    "latitude": 2.5,
+    "longitude": 112.5,
+    "flag": "https://restcountries.eu/data/mys.svg"
+  },
+  {
+    "spanish": "Maldivas",
+    "english": "Maldives",
+    "code": "MV",
+    "latitude": 3.25,
+    "longitude": 73,
+    "flag": "https://restcountries.eu/data/mdv.svg"
+  },
+  {
+    "spanish": "Mali",
+    "english": "Mali",
+    "code": "ML",
+    "latitude": 17,
+    "longitude": -4,
+    "flag": "https://restcountries.eu/data/mli.svg"
+  },
+  {
+    "spanish": "Malta",
+    "english": "Malta",
+    "code": "MT",
+    "latitude": 35.83333333,
+    "longitude": 14.58333333,
+    "flag": "https://restcountries.eu/data/mlt.svg"
+  },
+  {
+    "spanish": "Islas Marshall",
+    "english": "Marshall Islands",
+    "code": "MH",
+    "latitude": 9,
+    "longitude": 168,
+    "flag": "https://restcountries.eu/data/mhl.svg"
+  },
+  {
+    "spanish": "Martinica",
+    "english": "Martinique",
+    "code": "MQ",
+    "latitude": 14.666667,
+    "longitude": -61,
+    "flag": "https://restcountries.eu/data/mtq.svg"
+  },
+  {
+    "spanish": "Mauritania",
+    "english": "Mauritania",
+    "code": "MR",
+    "latitude": 20,
+    "longitude": -12,
+    "flag": "https://restcountries.eu/data/mrt.svg"
+  },
+  {
+    "spanish": "Mauricio",
+    "english": "Mauritius",
+    "code": "MU",
+    "latitude": -20.28333333,
+    "longitude": 57.55,
+    "flag": "https://restcountries.eu/data/mus.svg"
+  },
+  {
+    "spanish": "Mayotte",
+    "english": "Mayotte",
+    "code": "YT",
+    "latitude": -12.83333333,
+    "longitude": 45.16666666,
+    "flag": "https://restcountries.eu/data/myt.svg"
+  },
+  {
+    "spanish": "México",
+    "english": "Mexico",
+    "code": "MX",
+    "latitude": 23,
+    "longitude": -102,
+    "flag": "https://restcountries.eu/data/mex.svg"
+  },
+  {
+    "spanish": "Micronesia",
+    "english": "Micronesia (Federated States of)",
+    "code": "FM",
+    "latitude": 6.91666666,
+    "longitude": 158.25,
+    "flag": "https://restcountries.eu/data/fsm.svg"
+  },
+  {
+    "spanish": "Moldavia",
+    "english": "Moldova (Republic of)",
+    "code": "MD",
+    "latitude": 47,
+    "longitude": 29,
+    "flag": "https://restcountries.eu/data/mda.svg"
+  },
+  {
+    "spanish": "Mónaco",
+    "english": "Monaco",
+    "code": "MC",
+    "latitude": 43.73333333,
+    "longitude": 7.4,
+    "flag": "https://restcountries.eu/data/mco.svg"
+  },
+  {
+    "spanish": "Mongolia",
+    "english": "Mongolia",
+    "code": "MN",
+    "latitude": 46,
+    "longitude": 105,
+    "flag": "https://restcountries.eu/data/mng.svg"
+  },
+  {
+    "spanish": "Montenegro",
+    "english": "Montenegro",
+    "code": "ME",
+    "latitude": 42.5,
+    "longitude": 19.3,
+    "flag": "https://restcountries.eu/data/mne.svg"
+  },
+  {
+    "spanish": "Montserrat",
+    "english": "Montserrat",
+    "code": "MS",
+    "latitude": 16.75,
+    "longitude": -62.2,
+    "flag": "https://restcountries.eu/data/msr.svg"
+  },
+  {
+    "spanish": "Marruecos",
+    "english": "Morocco",
+    "code": "MA",
+    "latitude": 32,
+    "longitude": -5,
+    "flag": "https://restcountries.eu/data/mar.svg"
+  },
+  {
+    "spanish": "Mozambique",
+    "english": "Mozambique",
+    "code": "MZ",
+    "latitude": -18.25,
+    "longitude": 35,
+    "flag": "https://restcountries.eu/data/moz.svg"
+  },
+  {
+    "spanish": "Myanmar",
+    "english": "Myanmar",
+    "code": "MM",
+    "latitude": 22,
+    "longitude": 98,
+    "flag": "https://restcountries.eu/data/mmr.svg"
+  },
+  {
+    "spanish": "Namibia",
+    "english": "Namibia",
+    "code": "NA",
+    "latitude": -22,
+    "longitude": 17,
+    "flag": "https://restcountries.eu/data/nam.svg"
+  },
+  {
+    "spanish": "Nauru",
+    "english": "Nauru",
+    "code": "NR",
+    "latitude": -0.53333333,
+    "longitude": 166.91666666,
+    "flag": "https://restcountries.eu/data/nru.svg"
+  },
+  {
+    "spanish": "Nepal",
+    "english": "Nepal",
+    "code": "NP",
+    "latitude": 28,
+    "longitude": 84,
+    "flag": "https://restcountries.eu/data/npl.svg"
+  },
+  {
+    "spanish": "Países Bajos",
+    "english": "Netherlands",
+    "code": "NL",
+    "latitude": 52.5,
+    "longitude": 5.75,
+    "flag": "https://restcountries.eu/data/nld.svg"
+  },
+  {
+    "spanish": "Nueva Caledonia",
+    "english": "New Caledonia",
+    "code": "NC",
+    "latitude": -21.5,
+    "longitude": 165.5,
+    "flag": "https://restcountries.eu/data/ncl.svg"
+  },
+  {
+    "spanish": "Nueva Zelanda",
+    "english": "New Zealand",
+    "code": "NZ",
+    "latitude": -41,
+    "longitude": 174,
+    "flag": "https://restcountries.eu/data/nzl.svg"
+  },
+  {
+    "spanish": "Nicaragua",
+    "english": "Nicaragua",
+    "code": "NI",
+    "latitude": 13,
+    "longitude": -85,
+    "flag": "https://restcountries.eu/data/nic.svg"
+  },
+  {
+    "spanish": "Níger",
+    "english": "Niger",
+    "code": "NE",
+    "latitude": 16,
+    "longitude": 8,
+    "flag": "https://restcountries.eu/data/ner.svg"
+  },
+  {
+    "spanish": "Nigeria",
+    "english": "Nigeria",
+    "code": "NG",
+    "latitude": 10,
+    "longitude": 8,
+    "flag": "https://restcountries.eu/data/nga.svg"
+  },
+  {
+    "spanish": "Niue",
+    "english": "Niue",
+    "code": "NU",
+    "latitude": -19.03333333,
+    "longitude": -169.86666666,
+    "flag": "https://restcountries.eu/data/niu.svg"
+  },
+  {
+    "spanish": "Isla de Norfolk",
+    "english": "Norfolk Island",
+    "code": "NF",
+    "latitude": -29.03333333,
+    "longitude": 167.95,
+    "flag": "https://restcountries.eu/data/nfk.svg"
+  },
+  {
+    "spanish": "Corea del Norte",
+    "english": "Korea (Democratic People's Republic of)",
+    "code": "KP",
+    "latitude": 40,
+    "longitude": 127,
+    "flag": "https://restcountries.eu/data/prk.svg"
+  },
+  {
+    "spanish": "Islas Marianas del Norte",
+    "english": "Northern Mariana Islands",
+    "code": "MP",
+    "latitude": 15.2,
+    "longitude": 145.75,
+    "flag": "https://restcountries.eu/data/mnp.svg"
+  },
+  {
+    "spanish": "Noruega",
+    "english": "Norway",
+    "code": "NO",
+    "latitude": 62,
+    "longitude": 10,
+    "flag": "https://restcountries.eu/data/nor.svg"
+  },
+  {
+    "spanish": "Omán",
+    "english": "Oman",
+    "code": "OM",
+    "latitude": 21,
+    "longitude": 57,
+    "flag": "https://restcountries.eu/data/omn.svg"
+  },
+  {
+    "spanish": "Pakistán",
+    "english": "Pakistan",
+    "code": "PK",
+    "latitude": 30,
+    "longitude": 70,
+    "flag": "https://restcountries.eu/data/pak.svg"
+  },
+  {
+    "spanish": "Palau",
+    "english": "Palau",
+    "code": "PW",
+    "latitude": 7.5,
+    "longitude": 134.5,
+    "flag": "https://restcountries.eu/data/plw.svg"
+  },
+  {
+    "spanish": "Palestina",
+    "english": "Palestine, State of",
+    "code": "PS",
+    "latitude": 31.9,
+    "longitude": 35.2,
+    "flag": "https://restcountries.eu/data/pse.svg"
+  },
+  {
+    "spanish": "Panamá",
+    "english": "Panama",
+    "code": "PA",
+    "latitude": 9,
+    "longitude": -80,
+    "flag": "https://restcountries.eu/data/pan.svg"
+  },
+  {
+    "spanish": "Papúa Nueva Guinea",
+    "english": "Papua New Guinea",
+    "code": "PG",
+    "latitude": -6,
+    "longitude": 147,
+    "flag": "https://restcountries.eu/data/png.svg"
+  },
+  {
+    "spanish": "Paraguay",
+    "english": "Paraguay",
+    "code": "PY",
+    "latitude": -23,
+    "longitude": -58,
+    "flag": "https://restcountries.eu/data/pry.svg"
+  },
+  {
+    "spanish": "Perú",
+    "english": "Peru",
+    "code": "PE",
+    "latitude": -10,
+    "longitude": -76,
+    "flag": "https://restcountries.eu/data/per.svg"
+  },
+  {
+    "spanish": "Filipinas",
+    "english": "Philippines",
+    "code": "PH",
+    "latitude": 13,
+    "longitude": 122,
+    "flag": "https://restcountries.eu/data/phl.svg"
+  },
+  {
+    "spanish": "Islas Pitcairn",
+    "english": "Pitcairn",
+    "code": "PN",
+    "latitude": -25.06666666,
+    "longitude": -130.1,
+    "flag": "https://restcountries.eu/data/pcn.svg"
+  },
+  {
+    "spanish": "Polonia",
+    "english": "Poland",
+    "code": "PL",
+    "latitude": 52,
+    "longitude": 20,
+    "flag": "https://restcountries.eu/data/pol.svg"
+  },
+  {
+    "spanish": "Portugal",
+    "english": "Portugal",
+    "code": "PT",
+    "latitude": 39.5,
+    "longitude": -8,
+    "flag": "https://restcountries.eu/data/prt.svg"
+  },
+  {
+    "spanish": "Puerto Rico",
+    "english": "Puerto Rico",
+    "code": "PR",
+    "latitude": 18.25,
+    "longitude": -66.5,
+    "flag": "https://restcountries.eu/data/pri.svg"
+  },
+  {
+    "spanish": "Catar",
+    "english": "Qatar",
+    "code": "QA",
+    "latitude": 25.5,
+    "longitude": 51.25,
+    "flag": "https://restcountries.eu/data/qat.svg"
+  },
+  {
+    "spanish": "Kosovo",
+    "english": "Republic of Kosovo",
+    "code": "XK",
+    "latitude": 42.666667,
+    "longitude": 21.166667,
+    "flag": "https://restcountries.eu/data/kos.svg"
+  },
+  {
+    "spanish": "Reunión",
+    "english": "Réunion",
+    "code": "RE",
+    "latitude": -21.15,
+    "longitude": 55.5,
+    "flag": "https://restcountries.eu/data/reu.svg"
+  },
+  {
+    "spanish": "Rumania",
+    "english": "Romania",
+    "code": "RO",
+    "latitude": 46,
+    "longitude": 25,
+    "flag": "https://restcountries.eu/data/rou.svg"
+  },
+  {
+    "spanish": "Rusia",
+    "english": "Russian Federation",
+    "code": "RU",
+    "latitude": 60,
+    "longitude": 100,
+    "flag": "https://restcountries.eu/data/rus.svg"
+  },
+  {
+    "spanish": "Ruanda",
+    "english": "Rwanda",
+    "code": "RW",
+    "latitude": -2,
+    "longitude": 30,
+    "flag": "https://restcountries.eu/data/rwa.svg"
+  },
+  {
+    "spanish": "San Bartolomé",
+    "english": "Saint Barthélemy",
+    "code": "BL",
+    "latitude": 18.5,
+    "longitude": -63.41666666,
+    "flag": "https://restcountries.eu/data/blm.svg"
+  },
+  {
+    "spanish": "Santa Helena",
+    "english": "Saint Helena, Ascension and Tristan da Cunha",
+    "code": "SH",
+    "latitude": -15.95,
+    "longitude": -5.7,
+    "flag": "https://restcountries.eu/data/shn.svg"
+  },
+  {
+    "spanish": "San Cristóbal y Nieves",
+    "english": "Saint Kitts and Nevis",
+    "code": "KN",
+    "latitude": 17.33333333,
+    "longitude": -62.75,
+    "flag": "https://restcountries.eu/data/kna.svg"
+  },
+  {
+    "spanish": "Santa Lucía",
+    "english": "Saint Lucia",
+    "code": "LC",
+    "latitude": 13.88333333,
+    "longitude": -60.96666666,
+    "flag": "https://restcountries.eu/data/lca.svg"
+  },
+  {
+    "spanish": "Saint Martin",
+    "english": "Saint Martin (French part)",
+    "code": "MF",
+    "latitude": 18.08333333,
+    "longitude": -63.95,
+    "flag": "https://restcountries.eu/data/maf.svg"
+  },
+  {
+    "spanish": "San Pedro y Miquelón",
+    "english": "Saint Pierre and Miquelon",
+    "code": "PM",
+    "latitude": 46.83333333,
+    "longitude": -56.33333333,
+    "flag": "https://restcountries.eu/data/spm.svg"
+  },
+  {
+    "spanish": "San Vicente y Granadinas",
+    "english": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "latitude": 13.25,
+    "longitude": -61.2,
+    "flag": "https://restcountries.eu/data/vct.svg"
+  },
+  {
+    "spanish": "Samoa",
+    "english": "Samoa",
+    "code": "WS",
+    "latitude": -13.58333333,
+    "longitude": -172.33333333,
+    "flag": "https://restcountries.eu/data/wsm.svg"
+  },
+  {
+    "spanish": "San Marino",
+    "english": "San Marino",
+    "code": "SM",
+    "latitude": 43.76666666,
+    "longitude": 12.41666666,
+    "flag": "https://restcountries.eu/data/smr.svg"
+  },
+  {
+    "spanish": "Santo Tomé y Príncipe",
+    "english": "Sao Tome and Principe",
+    "code": "ST",
+    "latitude": 1,
+    "longitude": 7,
+    "flag": "https://restcountries.eu/data/stp.svg"
+  },
+  {
+    "spanish": "Arabia Saudí",
+    "english": "Saudi Arabia",
+    "code": "SA",
+    "latitude": 25,
+    "longitude": 45,
+    "flag": "https://restcountries.eu/data/sau.svg"
+  },
+  {
+    "spanish": "Senegal",
+    "english": "Senegal",
+    "code": "SN",
+    "latitude": 14,
+    "longitude": -14,
+    "flag": "https://restcountries.eu/data/sen.svg"
+  },
+  {
+    "spanish": "Serbia",
+    "english": "Serbia",
+    "code": "RS",
+    "latitude": 44,
+    "longitude": 21,
+    "flag": "https://restcountries.eu/data/srb.svg"
+  },
+  {
+    "spanish": "Seychelles",
+    "english": "Seychelles",
+    "code": "SC",
+    "latitude": -4.58333333,
+    "longitude": 55.66666666,
+    "flag": "https://restcountries.eu/data/syc.svg"
+  },
+  {
+    "spanish": "Sierra Leone",
+    "english": "Sierra Leone",
+    "code": "SL",
+    "latitude": 8.5,
+    "longitude": -11.5,
+    "flag": "https://restcountries.eu/data/sle.svg"
+  },
+  {
+    "spanish": "Singapur",
+    "english": "Singapore",
+    "code": "SG",
+    "latitude": 1.36666666,
+    "longitude": 103.8,
+    "flag": "https://restcountries.eu/data/sgp.svg"
+  },
+  {
+    "spanish": "República Eslovaca",
+    "english": "Slovakia",
+    "code": "SK",
+    "latitude": 48.66666666,
+    "longitude": 19.5,
+    "flag": "https://restcountries.eu/data/svk.svg"
+  },
+  {
+    "spanish": "Eslovenia",
+    "english": "Slovenia",
+    "code": "SI",
+    "latitude": 46.11666666,
+    "longitude": 14.81666666,
+    "flag": "https://restcountries.eu/data/svn.svg"
+  },
+  {
+    "spanish": "Islas Salomón",
+    "english": "Solomon Islands",
+    "code": "SB",
+    "latitude": -8,
+    "longitude": 159,
+    "flag": "https://restcountries.eu/data/slb.svg"
+  },
+  {
+    "spanish": "Somalia",
+    "english": "Somalia",
+    "code": "SO",
+    "latitude": 10,
+    "longitude": 49,
+    "flag": "https://restcountries.eu/data/som.svg"
+  },
+  {
+    "spanish": "República de Sudáfrica",
+    "english": "South Africa",
+    "code": "ZA",
+    "latitude": -29,
+    "longitude": 24,
+    "flag": "https://restcountries.eu/data/zaf.svg"
+  },
+  {
+    "spanish": "Islas Georgias del Sur y Sandwich del Sur",
+    "english": "South Georgia and the South Sandwich Islands",
+    "code": "GS",
+    "latitude": -54.5,
+    "longitude": -37,
+    "flag": "https://restcountries.eu/data/sgs.svg"
+  },
+  {
+    "spanish": "Corea del Sur",
+    "english": "Korea (Republic of)",
+    "code": "KR",
+    "latitude": 37,
+    "longitude": 127.5,
+    "flag": "https://restcountries.eu/data/kor.svg"
+  },
+  {
+    "spanish": "Sudán del Sur",
+    "english": "South Sudan",
+    "code": "SS",
+    "latitude": 7,
+    "longitude": 30,
+    "flag": "https://restcountries.eu/data/ssd.svg"
+  },
+  {
+    "spanish": "España",
+    "english": "Spain",
+    "code": "ES",
+    "latitude": 40,
+    "longitude": -4,
+    "flag": "https://restcountries.eu/data/esp.svg"
+  },
+  {
+    "spanish": "Sri Lanka",
+    "english": "Sri Lanka",
+    "code": "LK",
+    "latitude": 7,
+    "longitude": 81,
+    "flag": "https://restcountries.eu/data/lka.svg"
+  },
+  {
+    "spanish": "Sudán",
+    "english": "Sudan",
+    "code": "SD",
+    "latitude": 15,
+    "longitude": 30,
+    "flag": "https://restcountries.eu/data/sdn.svg"
+  },
+  {
+    "spanish": "Surinam",
+    "english": "Suriname",
+    "code": "SR",
+    "latitude": 4,
+    "longitude": -56,
+    "flag": "https://restcountries.eu/data/sur.svg"
+  },
+  {
+    "spanish": "Islas Svalbard y Jan Mayen",
+    "english": "Svalbard and Jan Mayen",
+    "code": "SJ",
+    "latitude": 78,
+    "longitude": 20,
+    "flag": "https://restcountries.eu/data/sjm.svg"
+  },
+  {
+    "spanish": "Suazilandia",
+    "english": "Swaziland",
+    "code": "SZ",
+    "latitude": -26.5,
+    "longitude": 31.5,
+    "flag": "https://restcountries.eu/data/swz.svg"
+  },
+  {
+    "spanish": "Suecia",
+    "english": "Sweden",
+    "code": "SE",
+    "latitude": 62,
+    "longitude": 15,
+    "flag": "https://restcountries.eu/data/swe.svg"
+  },
+  {
+    "spanish": "Suiza",
+    "english": "Switzerland",
+    "code": "CH",
+    "latitude": 47,
+    "longitude": 8,
+    "flag": "https://restcountries.eu/data/che.svg"
+  },
+  {
+    "spanish": "Siria",
+    "english": "Syrian Arab Republic",
+    "code": "SY",
+    "latitude": 35,
+    "longitude": 38,
+    "flag": "https://restcountries.eu/data/syr.svg"
+  },
+  {
+    "spanish": "Taiwán",
+    "english": "Taiwan",
+    "code": "TW",
+    "latitude": 23.5,
+    "longitude": 121,
+    "flag": "https://restcountries.eu/data/twn.svg"
+  },
+  {
+    "spanish": "Tayikistán",
+    "english": "Tajikistan",
+    "code": "TJ",
+    "latitude": 39,
+    "longitude": 71,
+    "flag": "https://restcountries.eu/data/tjk.svg"
+  },
+  {
+    "spanish": "Tanzania",
+    "english": "Tanzania, United Republic of",
+    "code": "TZ",
+    "latitude": -6,
+    "longitude": 35,
+    "flag": "https://restcountries.eu/data/tza.svg"
+  },
+  {
+    "spanish": "Tailandia",
+    "english": "Thailand",
+    "code": "TH",
+    "latitude": 15,
+    "longitude": 100,
+    "flag": "https://restcountries.eu/data/tha.svg"
+  },
+  {
+    "spanish": "Timor Oriental",
+    "english": "Timor-Leste",
+    "code": "TL",
+    "latitude": -8.83333333,
+    "longitude": 125.91666666,
+    "flag": "https://restcountries.eu/data/tls.svg"
+  },
+  {
+    "spanish": "Togo",
+    "english": "Togo",
+    "code": "TG",
+    "latitude": 8,
+    "longitude": 1.16666666,
+    "flag": "https://restcountries.eu/data/tgo.svg"
+  },
+  {
+    "spanish": "Islas Tokelau",
+    "english": "Tokelau",
+    "code": "TK",
+    "latitude": -9,
+    "longitude": -172,
+    "flag": "https://restcountries.eu/data/tkl.svg"
+  },
+  {
+    "spanish": "Tonga",
+    "english": "Tonga",
+    "code": "TO",
+    "latitude": -20,
+    "longitude": -175,
+    "flag": "https://restcountries.eu/data/ton.svg"
+  },
+  {
+    "spanish": "Trinidad y Tobago",
+    "english": "Trinidad and Tobago",
+    "code": "TT",
+    "latitude": 11,
+    "longitude": -61,
+    "flag": "https://restcountries.eu/data/tto.svg"
+  },
+  {
+    "spanish": "Túnez",
+    "english": "Tunisia",
+    "code": "TN",
+    "latitude": 34,
+    "longitude": 9,
+    "flag": "https://restcountries.eu/data/tun.svg"
+  },
+  {
+    "spanish": "Turquía",
+    "english": "Turkey",
+    "code": "TR",
+    "latitude": 39,
+    "longitude": 35,
+    "flag": "https://restcountries.eu/data/tur.svg"
+  },
+  {
+    "spanish": "Turkmenistán",
+    "english": "Turkmenistan",
+    "code": "TM",
+    "latitude": 40,
+    "longitude": 60,
+    "flag": "https://restcountries.eu/data/tkm.svg"
+  },
+  {
+    "spanish": "Islas Turks y Caicos",
+    "english": "Turks and Caicos Islands",
+    "code": "TC",
+    "latitude": 21.75,
+    "longitude": -71.58333333,
+    "flag": "https://restcountries.eu/data/tca.svg"
+  },
+  {
+    "spanish": "Tuvalu",
+    "english": "Tuvalu",
+    "code": "TV",
+    "latitude": -8,
+    "longitude": 178,
+    "flag": "https://restcountries.eu/data/tuv.svg"
+  },
+  {
+    "spanish": "Uganda",
+    "english": "Uganda",
+    "code": "UG",
+    "latitude": 1,
+    "longitude": 32,
+    "flag": "https://restcountries.eu/data/uga.svg"
+  },
+  {
+    "spanish": "Ucrania",
+    "english": "Ukraine",
+    "code": "UA",
+    "latitude": 49,
+    "longitude": 32,
+    "flag": "https://restcountries.eu/data/ukr.svg"
+  },
+  {
+    "spanish": "Emiratos Árabes Unidos",
+    "english": "United Arab Emirates",
+    "code": "AE",
+    "latitude": 24,
+    "longitude": 54,
+    "flag": "https://restcountries.eu/data/are.svg"
+  },
+  {
+    "spanish": "Reino Unido",
+    "english": "United Kingdom of Great Britain and Northern Ireland",
+    "code": "GB",
+    "latitude": 54,
+    "longitude": -2,
+    "flag": "https://restcountries.eu/data/gbr.svg"
+  },
+  {
+    "spanish": "Estados Unidos",
+    "english": "United States of America",
+    "code": "US",
+    "latitude": 38,
+    "longitude": -97,
+    "flag": "https://restcountries.eu/data/usa.svg"
+  },
+  {
+    "spanish": "Uruguay",
+    "english": "Uruguay",
+    "code": "UY",
+    "latitude": -33,
+    "longitude": -56,
+    "flag": "https://restcountries.eu/data/ury.svg"
+  },
+  {
+    "spanish": "Uzbekistán",
+    "english": "Uzbekistan",
+    "code": "UZ",
+    "latitude": 41,
+    "longitude": 64,
+    "flag": "https://restcountries.eu/data/uzb.svg"
+  },
+  {
+    "spanish": "Vanuatu",
+    "english": "Vanuatu",
+    "code": "VU",
+    "latitude": -16,
+    "longitude": 167,
+    "flag": "https://restcountries.eu/data/vut.svg"
+  },
+  {
+    "spanish": "Venezuela",
+    "english": "Venezuela (Bolivarian Republic of)",
+    "code": "VE",
+    "latitude": 8,
+    "longitude": -66,
+    "flag": "https://restcountries.eu/data/ven.svg"
+  },
+  {
+    "spanish": "Vietnam",
+    "english": "Viet Nam",
+    "code": "VN",
+    "latitude": 16.16666666,
+    "longitude": 107.83333333,
+    "flag": "https://restcountries.eu/data/vnm.svg"
+  },
+  {
+    "spanish": "Wallis y Futuna",
+    "english": "Wallis and Futuna",
+    "code": "WF",
+    "latitude": -13.3,
+    "longitude": -176.2,
+    "flag": "https://restcountries.eu/data/wlf.svg"
+  },
+  {
+    "spanish": "Sahara Occidental",
+    "english": "Western Sahara",
+    "code": "EH",
+    "latitude": 24.5,
+    "longitude": -13,
+    "flag": "https://restcountries.eu/data/esh.svg"
+  },
+  {
+    "spanish": "Yemen",
+    "english": "Yemen",
+    "code": "YE",
+    "latitude": 15,
+    "longitude": 48,
+    "flag": "https://restcountries.eu/data/yem.svg"
+  },
+  {
+    "spanish": "Zambia",
+    "english": "Zambia",
+    "code": "ZM",
+    "latitude": -15,
+    "longitude": 30,
+    "flag": "https://restcountries.eu/data/zmb.svg"
+  },
+  {
+    "spanish": "Zimbabue",
+    "english": "Zimbabwe",
+    "code": "ZW",
+    "latitude": -20,
+    "longitude": 30,
+    "flag": "https://restcountries.eu/data/zwe.svg"
+  }
+]
