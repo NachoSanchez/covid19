@@ -18,7 +18,7 @@ const Map = () => {
            height="100vh"
            mapStyle="mapbox://styles/mapbox/dark-v9"
            onViewportChange={setViewport}
-           mapboxApiAccessToken={MAPBOX_TOKEN}
+           mapboxApiAccessToken={ MAPBOX_TOKEN }
         /> 
     )
 }
