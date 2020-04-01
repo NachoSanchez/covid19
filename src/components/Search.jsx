@@ -5,6 +5,8 @@ import { faSearch, faChevronDown, faChevronUp } from '@fortawesome/free-solid-sv
 import  countries  from '../api/countries.json';
 import styles from './Search.module.css'
 
+countries.sort();
+
 const Search = () => {
     const { setCountry } = useContext(CountryContext);
     const [ search, setSearch ] = useState('');
@@ -36,6 +38,7 @@ const Search = () => {
                 value={ search }
                 type="text" 
                 onChange={handleChange}
+                onClick={}
                 placeholder='Buscar por pais...'
             />
             <button>
