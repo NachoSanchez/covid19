@@ -70,3 +70,10 @@
 .none {
     display: none;
 }
+
+@media (min-width: 600px) {
+    .container {
+        max-width: 30vw;
+    }
+ 
+}
