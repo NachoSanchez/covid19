@@ -53,22 +53,23 @@ const Search = () => {
                     filtered => (
                     <li key={filtered.code } 
                         onClick={() => {
-                            setCountry(filtered.code);
+                            setCountry(filtered);
                             setShowing(!isShowing);
                             setSearch(filtered.spanish);
                         }}
                     >
                     { filtered.spanish + ' (' + filtered.code +')' }
-                        <img 
-                            src={filtered.flag} 
-                            alt={`bandera de ${filtered.spanish}`}
-                        />
+                        
+                    <img 
+                        src={filtered.flag} 
+                        alt={`bandera de ${filtered.spanish}`}
+                    />
                     </li>
                 ))
               }
               
           </ul>
-      </section>
+        </section>
     );
 }
  

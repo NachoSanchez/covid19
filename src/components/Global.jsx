@@ -5,9 +5,9 @@ import { COVID19_API }  from '../api'
 
 const Global = () => {
     //Fetching Data
-    const { country } = useContext(CountryContext);
-    const [ casesByState, isFetchingCases ] = useFetch( COVID19_API + country +'/confirmed');
-    const [ recoveredByState, isFetchingRecovered ] = useFetch(COVID19_API + country + '/recovered')
+    const { code, spanish } = useContext(CountryContext);
+    const [ casesByState, isFetchingCases ] = useFetch( COVID19_API + code +'/confirmed');
+    const [ recoveredByState, isFetchingRecovered ] = useFetch(COVID19_API + code + '/recovered')
 
     const getPercentage = ( partial, total ) => {
         let percentage = (partial * 100) / total
@@ -50,7 +50,7 @@ const Global = () => {
 
     return ( 
         <div>
-           <h1> { country } Numbers </h1>
+           <h1> { spanish } </h1>
             <p>
                confirmados: {isFetchingCases ? '0' : total.confirmed }
                <small> | ACTIVOS: { isFetchingCases? '0%' : total.activePercentage + ' %' }</small>
@@ -62,7 +62,7 @@ const Global = () => {
             </p>
             <p>
                 recuperados: { isFetchingRecovered ? '0' : total.recovered }
-               <small>{ isFetchingCases? ' | (0%)' : ' | ('+ total.recoveredPercentage + ' %)' }</small>
+               <small>{ isFetchingCases? ' (0%)' : ' | ('+ total.recoveredPercentage + ' %)' }</small>
 
             </p>
         </div>

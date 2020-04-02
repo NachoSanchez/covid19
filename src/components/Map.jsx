@@ -1,25 +1,31 @@
-import React, { useState } from 'react'
+import React, { useState, useContext, useEffect } from 'react'
+import { CountryContext } from '../contexts/CountryContext'
 import ReactMapGL from 'react-map-gl'
 import { MAPBOX_TOKEN } from '../api'
+import styles from './Map.module.css'
 
 const Map = () => {
+    const { latitude, longitude } = useContext(CountryContext);
     const [viewport, setViewport]= useState({
-        width: 400,
-        heigth: 400,
-        latitude: -38.4161,
-        longitude: -63.6167,
-        zoom: 2
+        latitude: latitude,
+        longitude: longitude,
+        zoom: 3
     });
-    console.log( viewport )
+    
+    useEffect(()=>{
+        setViewport({...viewport, latitude, longitude});
+    }, [latitude, longitude])
+
     return (
-        <ReactMapGL
-           { ...viewport }
-           width="100vw"
-           height="100vh"
-           mapStyle="mapbox://styles/mapbox/dark-v9"
-           onViewportChange={setViewport}
-           mapboxApiAccessToken={ MAPBOX_TOKEN }
-        /> 
+        <section className={styles.map}>
+            <ReactMapGL
+                { ...viewport }
+                width="100%"
+                height="100%"
+                onViewportChange={setViewport}
+                mapboxApiAccessToken={ MAPBOX_TOKEN }
+            />
+        </section>
     )
 }
 
