@@ -30,7 +30,7 @@ const Search = () => {
     }
 
     return (
-      <section className={styles.container}>
+      <section className={styles.wrapper}>
           <div className={ styles.search }>
             <input 
                 value={ search }

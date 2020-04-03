@@ -1,18 +1,16 @@
-import React, { useContext } from 'react'
-import { CountryContext } from '../contexts/CountryContext'
-import useFetch from '../hooks/useFetch'
-import { COVID19_WORLD_URL, COVID19_URL }  from '../api'
+import React, { useContext } from 'react';
+import StatsPanel from './StatsPanel';
+import Title from './Title'
+import { CountryContext } from '../contexts/CountryContext';
+import useFetch from '../hooks/useFetch';
+import { COVID19_WORLD_URL, COVID19_URL }  from '../api';
+import styles from './Statistics.module.css';
 
-const Global = () => {
+const Statistics = () => {
     //Fetching Data
-    const { code, spanish } = useContext(CountryContext);
+    const { code, spanish, flag } = useContext(CountryContext);
     const [ confirmedByState, isFetchingCases ] = useFetch( COVID19_WORLD_URL +'confirmed');
     const [ recoveredByState ] = useFetch( COVID19_URL + code +'/recovered');
-
-    const getPercentage = ( partial, total ) => {
-        let percentage = (partial * 100) / total
-        return Number((percentage).toFixed(2))
-    };
 
     //Reducing data for total result filtering by country
     let WorldTotals = {
@@ -60,27 +58,28 @@ const Global = () => {
         el => el.iso2 === code
     )
 
-    console.log(CountryPartials)
-
     return ( 
-        <div>
-           <h1> { spanish } </h1>
-            <p>
-               confirmados: {isFetchingCases ? '0' : CountryTotals.confirmed }
-               <small> | ACTIVOS: { /*isFetchingCases? '0%' : total.activePercentage + ' %' */}</small>
-            </p>
-            <p>
-                muertos: { isFetchingCases ? '0' : CountryTotals.deaths }
-               <small>{ /*isFetchingCases? ' | (0%)' :' | ('+ total.deathsPercentage + ' %)'*/ }</small>
+        <main className={styles.wrapper}> 
+            <Title 
+                text={`${spanish} (${code}) `}
+                img={ flag } 
+            />
+            <StatsPanel 
+                confirmed={ isFetchingCases ? '0' : CountryTotals.confirmed }
+                recovered={ isFetchingCases ? '0' : CountryTotals.recovered }
+                deaths={ isFetchingCases ? '0' : CountryTotals.deaths }
+                active={ isFetchingCases ? '0' : CountryTotals.active }
+            />
 
-            </p>
-            <p>
-                recuperados: { isFetchingCases ? '0' : CountryTotals.recovered }
-               <small>{/* isFetchingCases? ' (0%)' : ' | ('+ total.recoveredPercentage + ' %)'*/ }</small>
-
-            </p>
-        </div>
+            <Title text="Contexto Mundial."/>
+            <StatsPanel 
+                confirmed={ isFetchingCases ? '0' : WorldTotals.confirmed }
+                recovered={ isFetchingCases ? '0' : WorldTotals.recovered }
+                deaths={ isFetchingCases ? '0' : WorldTotals.deaths }
+                active={ isFetchingCases ? '0' : WorldTotals.active }
+            />
+        </main>
      );
 }
  
-export default Global;
+export default Statistics;

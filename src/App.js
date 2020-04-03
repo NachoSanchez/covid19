@@ -1,9 +1,8 @@
 import React from 'react';
-import Global from './components/Global'
+import Statistics from './components/Statistics'
 import Search from './components/Search'
 import Map from './components/Map'
 import CountryContextProvider from './contexts/CountryContext';
-import WorldNumbers from './components/WorldNumbers';
 
 const App = () => {
   return (
@@ -11,7 +10,7 @@ const App = () => {
       <CountryContextProvider>
         <Search/>
         <Map />
-        <Global />
+        <Statistics />
       </CountryContextProvider>
     </div>
   );
