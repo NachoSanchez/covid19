@@ -7,5 +7,7 @@
 }
 
 body {
+  background-color: #333;
+  color: lightgray;
   font-family: 'Roboto', sans-serif;
 }

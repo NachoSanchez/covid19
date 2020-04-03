@@ -1,68 +1,82 @@
 import React, { useContext } from 'react'
 import { CountryContext } from '../contexts/CountryContext'
 import useFetch from '../hooks/useFetch'
-import { COVID19_API }  from '../api'
+import { COVID19_WORLD_URL, COVID19_URL }  from '../api'
 
 const Global = () => {
     //Fetching Data
     const { code, spanish } = useContext(CountryContext);
-    const [ casesByState, isFetchingCases ] = useFetch( COVID19_API + code +'/confirmed');
-    const [ recoveredByState, isFetchingRecovered ] = useFetch(COVID19_API + code + '/recovered')
+    const [ confirmedByState, isFetchingCases ] = useFetch( COVID19_WORLD_URL +'confirmed');
+    const [ recoveredByState ] = useFetch( COVID19_URL + code +'/recovered');
 
     const getPercentage = ( partial, total ) => {
         let percentage = (partial * 100) / total
         return Number((percentage).toFixed(2))
     };
-    //Reducing data for total result
-    const recoveredTotal = recoveredByState.reduce(
-        (sum, el) => (
-        typeof el.recovered == "number" 
-        ? sum + el.recovered
-        : sum), 0);
 
-    const confirmedTotal = casesByState.reduce(
-        (sum, el) => (
-        typeof el.confirmed == "number" 
-        ? sum + el.confirmed 
-        : sum), 0);
-
-    const deathsTotal = casesByState.reduce(
-        (sum, el) => (
-        typeof el.deaths == "number" 
-        ? sum + el.deaths 
-        : sum), 0);
-
-    const activeTotal = casesByState.reduce(
-        (sum, el) => (
-        typeof el.active == "number" 
-        ? sum + el.active 
-        : sum), 0);
-    //total object will contain the reduced info and make the percentages needed
-    const total = {
-        confirmed: confirmedTotal,
-        deaths: deathsTotal,
-        recovered: recoveredTotal,
-        active: activeTotal,
-        activePercentage: getPercentage(activeTotal, confirmedTotal),
-        recoveredPercentage: getPercentage(recoveredTotal, confirmedTotal),
-        deathsPercentage: getPercentage(deathsTotal, confirmedTotal)
+    //Reducing data for total result filtering by country
+    let WorldTotals = {
+        recovered: 0,
+        confirmed: 0,
+        deaths: 0,
+        active: 0,
     };
+
+    let CountryTotals = {
+        recovered: 0,
+        confirmed: 0,
+        deaths: 0,
+        active: 0
+    };
+
+   const recovered = recoveredByState.reduce(
+        (sum, el) => (
+            typeof el.recovered == "number"
+            ? sum + el.recovered
+            : sum), 0)
+
+    confirmedByState.forEach(
+        el => {
+            if( el.iso2 === code ) {
+                CountryTotals.confirmed = CountryTotals.confirmed + el.confirmed
+                CountryTotals.recovered = CountryTotals.recovered + el.recovered;
+                CountryTotals.deaths = CountryTotals.deaths + el.deaths;
+                CountryTotals.active = CountryTotals.active + el.active;
+            }
+    });
+
+    confirmedByState.forEach( 
+        el => {
+            WorldTotals.recovered = WorldTotals.recovered + el.recovered;
+            WorldTotals.deaths = WorldTotals.deaths + el.deaths;
+            WorldTotals.confirmed = WorldTotals.confirmed + el.confirmed;
+            WorldTotals.active = WorldTotals.active + el.active;
+    });
+
+    const validate = CountryTotals.recovered === 0;
+    CountryTotals.recovered = validate ? recovered : CountryTotals.recovered
+
+    const CountryPartials = confirmedByState.filter(
+        el => el.iso2 === code
+    )
+
+    console.log(CountryPartials)
 
     return ( 
         <div>
            <h1> { spanish } </h1>
             <p>
-               confirmados: {isFetchingCases ? '0' : total.confirmed }
-               <small> | ACTIVOS: { isFetchingCases? '0%' : total.activePercentage + ' %' }</small>
+               confirmados: {isFetchingCases ? '0' : CountryTotals.confirmed }
+               <small> | ACTIVOS: { /*isFetchingCases? '0%' : total.activePercentage + ' %' */}</small>
             </p>
             <p>
-                muertos: { isFetchingCases ? '0' : total.deaths }
-               <small>{ isFetchingCases? ' | (0%)' :' | ('+ total.deathsPercentage + ' %)' }</small>
+                muertos: { isFetchingCases ? '0' : CountryTotals.deaths }
+               <small>{ /*isFetchingCases? ' | (0%)' :' | ('+ total.deathsPercentage + ' %)'*/ }</small>
 
             </p>
             <p>
-                recuperados: { isFetchingRecovered ? '0' : total.recovered }
-               <small>{ isFetchingCases? ' (0%)' : ' | ('+ total.recoveredPercentage + ' %)' }</small>
+                recuperados: { isFetchingCases ? '0' : CountryTotals.recovered }
+               <small>{/* isFetchingCases? ' (0%)' : ' | ('+ total.recoveredPercentage + ' %)'*/ }</small>
 
             </p>
         </div>
